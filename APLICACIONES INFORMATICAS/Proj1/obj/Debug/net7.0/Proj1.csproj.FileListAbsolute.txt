@@ -1,0 +1,15 @@
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/bin/Debug/net7.0/Proj1
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/bin/Debug/net7.0/Proj1.deps.json
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/bin/Debug/net7.0/Proj1.runtimeconfig.json
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/bin/Debug/net7.0/Proj1.dll
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/bin/Debug/net7.0/Proj1.pdb
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.csproj.AssemblyReference.cache
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.AssemblyInfoInputs.cache
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.AssemblyInfo.cs
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.csproj.CoreCompileInputs.cache
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.dll
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/refint/Proj1.dll
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.pdb
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/Proj1.genruntimeconfig.cache
+/workspaces/5th-semester/APLICACIONES INFORMATICAS/Proj1/obj/Debug/net7.0/ref/Proj1.dll
