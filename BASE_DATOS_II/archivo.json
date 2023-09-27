@@ -1,0 +1,8 @@
+{
+    "nombre": "Juan Pérez",
+    "edad": 30,
+    "ciudad": "Ciudad de México",
+    "email": "juan@example.com",
+    "intereses": ["programación", "música", "viajes"]
+  }
+  
