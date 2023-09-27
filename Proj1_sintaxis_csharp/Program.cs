@@ -8,6 +8,7 @@ class Program
 {
     static void Main(string[] args)
     {
+
         Console.WriteLine("Hello, World! y ya");
 
         //tIPOS DE DATOS 
@@ -136,7 +137,7 @@ class Program
 
         public void MensjeError(int edad)
         {
-            if (edad <= 18) Console.WriteLine($"Lo siento no eres estudiante");
+            if (edad <= 18) Console.WriteLine($"Lo siento no eres estudiante !");
             else Console.WriteLine("Matriculado");
         }
 
