@@ -102,7 +102,8 @@ class Program
         Console.WriteLine($"\n\tOBJETOS Y CLASES ");
 
         var est1 = new Estudiante("Juan Perez", 22);
-
+        est1.MostrarDatos(22);
+        est1.MensjeError(22);
 
     }
 
@@ -132,7 +133,7 @@ class Program
             Console.WriteLine($"Hola me llamo {Name} y tengo el codigo: {Code} y tengo {age} de dif");
         }
 
-        public static void MensjeError(int edad)
+        public  void MensjeError(int edad)
         {
             if (edad <= 18) Console.WriteLine($"Lo siento no eres estudiante");
             else Console.WriteLine("Matriculado");
