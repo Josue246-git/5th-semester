@@ -3,7 +3,7 @@
     "edad": 30,
     "ciudad": "Ciudad de México",
     "email": "juan@example.com",
-    "intereses": ["programación", "música", "viajes"]
-    
+    "intereses": ["programación", "música", "viajes"],
+    "mascosas": "mas cosas"
   }
   
