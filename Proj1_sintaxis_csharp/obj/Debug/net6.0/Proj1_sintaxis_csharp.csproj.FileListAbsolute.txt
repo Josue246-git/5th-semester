@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\bin\Debug\net6.0\Proj1_sintaxis_csharp.exe
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\bin\Debug\net6.0\Proj1_sintaxis_csharp.deps.json
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\bin\Debug\net6.0\Proj1_sintaxis_csharp.runtimeconfig.json
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\bin\Debug\net6.0\Proj1_sintaxis_csharp.dll
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\bin\Debug\net6.0\Proj1_sintaxis_csharp.pdb
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.AssemblyInfo.cs
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.dll
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\refint\Proj1_sintaxis_csharp.dll
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.pdb
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\Proj1_sintaxis_csharp.genruntimeconfig.cache
+C:\Users\DELL\Documents\c_sharp\APPS_INFORMATICAS\Proj1_sintaxis_csharp\obj\Debug\net6.0\ref\Proj1_sintaxis_csharp.dll
