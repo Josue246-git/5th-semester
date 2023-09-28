@@ -32,6 +32,7 @@ class Program
         var dato2 = 12;
 
 
+
         bool ban = true;
 
         if (ban) Console.WriteLine($"MI nacimiento es: {fecha1}");
@@ -55,7 +56,7 @@ class Program
         Console.WriteLine($"Tamanio del array es de {tam}");
 
 
-        int[] vec1 = new int[tam];      //Incializandole el tamaño
+        int[] vec1 = new int[tam];      //Incializandole el tamaño del arreglo 
 
         int a = 1;
 
@@ -109,11 +110,8 @@ class Program
 
     }
 
-    static double CalculateProm(double n1, double n2)
-    {
-        return n2 + n1;
-    }
-
+    static double CalculateProm(double n1, double n2) => n2 + n1;
+    
 
     class Estudiante
     {
@@ -135,7 +133,7 @@ class Program
             Console.WriteLine($"Hola me llamo {Name} y tengo el codigo: {Code} y tengo {age} de dif");
         }
 
-        public void MensjeError(int edad)
+        public  void MensjeError(int edad)
         {
             if (edad <= 18) Console.WriteLine($"Lo siento no eres estudiante !");
             else Console.WriteLine("Matriculado");
