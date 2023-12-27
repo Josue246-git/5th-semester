@@ -1,0 +1,44 @@
+
+<terror>
+    <pelicula>
+        <titulo>El Exorcista</titulo>
+        <director>William Friedkin</director>
+        <año>1973</año>
+    </pelicula>
+    <pelicula>
+        <titulo>El Resplandor</titulo>
+        <director>Stanley Kubrick</director>
+        <año>1980</año>
+    </pelicula>
+    <pelicula>
+        <titulo>El Conjuro</titulo>
+        <director>James Wan</director>
+        <año>2013</año>
+    </pelicula>
+    <pelicula>
+        <titulo>Insidious</titulo>
+        <director>James Wan</director>
+        <año>2010</año>
+    </pelicula>
+    <pelicula>
+        <titulo>El Silencio de los Corderos</titulo>
+        <director>Jonathan Demme</director>
+        <año>1991</año>
+    </pelicula>
+    <pelicula>
+        <titulo>El Aro</titulo>
+        <director>Gore Verbinski</director>
+        <año>2002</año>
+    </pelicula>
+    <pelicula>
+        <titulo>Actividad Paranormal</titulo>
+        <director>Oren Peli</director>
+        <año>2007</año>
+    </pelicula>
+    <pelicula>
+        <titulo>Sexto Sentido</titulo>
+        <director>M. Night Shyamalan</director>
+        <año>1999</año>
+    </pelicula>
+    <!-- Puedes seguir agregando más películas según lo necesites -->
+</terror>

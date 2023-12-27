@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicación de Lista de Tareas</title>
+</head>
+<body>
+    <h1>Lista de Tareas</h1>
+    <ul id="lista-tareas">
+        <!-- Lista de tareas se mostrará aquí -->
+    </ul>
+    <input type="text" id="nueva-tarea" placeholder="Agregar una nueva tarea">
+    <button id="agregar-tarea">Agregar Tarea</button>
+
+    <script>
+        // Definir un evento personalizado para notificar la adición de una tarea
+        var eventoTareaAgregada = new Event('tareaAgregada');
+
+        // Elementos del DOM
+        var listaTareas = document.getElementById('lista-tareas');
+        var inputNuevaTarea = document.getElementById('nueva-tarea');
+        var btnAgregarTarea = document.getElementById('agregar-tarea');
+
+        // Función para agregar una tarea a la lista
+        function agregarTarea() {
+            var nuevaTareaTexto = inputNuevaTarea.value;
+            if (nuevaTareaTexto.trim() !== '') {
+                var nuevaTarea = document.createElement('li');
+                nuevaTarea.textContent = nuevaTareaTexto;
+                listaTareas.appendChild(nuevaTarea);
+                
+                // Disparar el evento personalizado cuando se agrega una tarea
+                listaTareas.dispatchEvent(eventoTareaAgregada);
+
+                inputNuevaTarea.value = ''; // Limpiar el campo de entrada
+            }
+        }
+
+        // Agregar una tarea cuando se hace clic en el botón "Agregar Tarea"
+        btnAgregarTarea.addEventListener('click', agregarTarea);
+
+        // Agregar una tarea cuando se presiona la tecla "Enter" en el campo de entrada
+        inputNuevaTarea.addEventListener('keydown', function(event) {
+            if (event.key === 'Enter') {
+                agregarTarea();
+            }
+        });
+
+        // Oyente de eventos personalizados para manejar la notificación de tarea agregada
+        listaTareas.addEventListener('tareaAgregada', function() {
+            console.log('Tarea agregada. Actualizar otras partes de la aplicación aquí.');
+        });
+    </script>
+</body>
+</html>
